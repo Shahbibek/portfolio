@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container">
-    <a class="navbar-brand" href="#">Tapan Bavaliya</a>
+    <a class="navbar-brand" href="#">Bibek Sah</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -14,7 +14,7 @@
         </li>
       </ul>
       <span class="navbar-text">
-        <a href="mailto:tapan@improwised.com">tapan@improwised.com</a>
+        <a href="mailto:tapan@improwised.com">bkumarsah627@rku.ac.in</a>
       </span>
     </div>
   </div>
